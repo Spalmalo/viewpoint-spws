@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "viewpoint/spws/version"
 
 Gem::Specification.new do |s|
-  s.name        = "viewpoint-spws-spalmalo"
+  s.name        = "viewpoint-spws"
   s.version     = Viewpoint::SPWS::VERSION
   s.date        = Date.today.to_s
   s.author      = "Dan Wanek"
